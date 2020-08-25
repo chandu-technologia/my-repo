@@ -1,0 +1,2 @@
+This is file2 from node1 of this project
+This sample modification
